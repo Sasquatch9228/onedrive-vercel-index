@@ -55,10 +55,6 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/Sasquatch9228/sasquatch9228.github.io',
     },
-    {
-      name: 'Email',
-      link: 'mailto:vasquezlister288@gmail.com',
-    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
