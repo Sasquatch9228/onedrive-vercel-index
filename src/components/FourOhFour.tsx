@@ -4,8 +4,8 @@ import { Trans } from 'next-i18next'
 const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
   return (
     <div className="my-12">
-      <div className="mx-auto w-1">
-        <Image src="/images/bigfoot-angry.png" alt="404" width={912} height={912} priority />
+      <div className="mx-auto w-1/3">
+        <Image src="/images/bigfoot-angry.png" alt="404" width={812} height={812} priority />
       </div>
       <div className="mx-auto mt-6 max-w-xl text-gray-500">
         <div className="mb-8 text-xl font-bold">
