@@ -52,10 +52,6 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      "name": "Email",
-      "link": "mailto:vasquezlister288@gmail.com"
-    },
-    {
       "name": "GitHub",
       "link": "https://github.com/Sasquatch9228"
     }
