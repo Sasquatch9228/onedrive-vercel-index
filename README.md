@@ -13,7 +13,7 @@
 
 ## TL;DR
 
-Showcase, share, preview, and download files inside *your* OneDrive with onedrive-vercel-index -
+Showcase, share, preview, and download files inside *your* OneDrive with sasquatch9228-index -
 
 - Completely free to host 💸
 - Super fast ⚡ and responsive 💦
@@ -144,5 +144,5 @@ Open-source is hard! If you happen to like this project and want me to keep goin
 
 <div align="center">
   <img src="./public/footer.png" />
-  <em>made with ❤️ by <a href="https://spencerwoo.com">spencer woo</a></em>
+  <em>made with ❤️ by <a href ="https://sasquatch9228.dev">Sasquatch9228</a> and <a href="https://spencerwoo.com">spencer woo</a></em>
 </div>
